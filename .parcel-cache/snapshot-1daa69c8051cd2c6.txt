@@ -1,7 +1,7 @@
-10531
+10538
 106C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\rust\parcel-node-bindings.linux-arm64-gnu.node133645645456453242 0
 64C:\Users\USER\Desktop\Projects\natours\node_modules\tough-cookie133016359249107113 1
-69C:\Users\USER\Desktop\Projects\natours\node_modules\@msgpackr-extract133645645772936117 1
+69C:\Users\USER\Desktop\Projects\natours\node_modules\@msgpackr-extract133645674293684397 1
 61C:\Users\USER\Desktop\Projects\natours\node_modules\@mischnic133645644606227429 1
 86C:\Users\USER\Desktop\Projects\natours\node_modules\utility-types\dist\mapped-types.js133645644861889482 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\object-assign\readme.md131226995680000000 0
@@ -102,7 +102,7 @@
 83C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\regions\BW.js133645645204540119 0
 48C:\Users\USER\Desktop\Projects\natours\script.js133259393065997442 0
 88C:\Users\USER\Desktop\Projects\natours\node_modules\validate-npm-package-license\LICENSE131779602080000000 0
-51C:\Users\USER\Desktop\Projects\natours\node_modules133645645788752301 1
+51C:\Users\USER\Desktop\Projects\natours\node_modules133645674318390121 1
 85C:\Users\USER\Desktop\Projects\natours\node_modules\tough-cookie\lib\pubsuffix-psl.js121436361000000000 0
 72C:\Users\USER\Desktop\Projects\natours\node_modules\tweetnacl\.npmignore131052160450000000 0
 79C:\Users\USER\Desktop\Projects\natours\node_modules\define-properties\README.md121436361000000000 0
@@ -326,7 +326,7 @@
 75C:\Users\USER\Desktop\Projects\natours\node_modules\nan\doc\v8_internals.md121436361000000000 0
 99C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\test\fixtures\source-map\expected.map121436361000000000 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\scss-tokenizer\index.js131379262090000000 0
-56C:\Users\USER\Desktop\Projects\natours\node_modules\@swc133645645773086018 1
+56C:\Users\USER\Desktop\Projects\natours\node_modules\@swc133645674293704379 1
 119C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\CDO.js133645644962764258 0
 101C:\Users\USER\Desktop\Projects\natours\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133645645181473103 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\node-gyp\gyp\setup.py121436361000000000 0
@@ -355,7 +355,7 @@
 77C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\_baseConvert.js121436361000000000 0
 58C:\Users\USER\Desktop\Projects\natours\node_modules\wrappy133016359234594852 1
 83C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\regions\TL.js133645645628522932 0
-56C:\Users\USER\Desktop\Projects\natours\node_modules\.bin133645645663832684 1
+56C:\Users\USER\Desktop\Projects\natours\node_modules\.bin133645674318779891 1
 71C:\Users\USER\Desktop\Projects\natours\node_modules\react-error-overlay133645644918686708 1
 74C:\Users\USER\Desktop\Projects\natours\node_modules\form-data\package.json133016359256774952 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test\node_path\y\bbb133016359115179860 1
@@ -410,9 +410,9 @@
 100C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts133645645184041622 0
 137C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133645645247830234 0
 58C:\Users\USER\Desktop\Projects\natours\node_modules\@babel133645644607458086 1
-57C:\Users\USER\Desktop\Projects\natours\node_modules\@lmdb133645645772886149 1
+57C:\Users\USER\Desktop\Projects\natours\node_modules\@lmdb133645674293684397 1
 72C:\Users\USER\Desktop\Projects\natours\node_modules\path-exists\index.js130855644090000000 0
-59C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel133645645773086018 1
+59C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel133645674293694379 1
 82C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\test\fixtures\indent133016359135706754 1
 134C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133645644803727934 0
 70C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\core.min.js121436361000000000 0
@@ -562,7 +562,7 @@
 74C:\Users\USER\Desktop\Projects\natours\node_modules\strip-bom\package.json133016359241396305 0
 66C:\Users\USER\Desktop\Projects\natours\node_modules\rimraf\LICENSE121436361000000000 0
 68C:\Users\USER\Desktop\Projects\natours\node_modules\is-glob\index.js121436361000000000 0
-87C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules133645645651893522 1
+87C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules133645674315521769 1
 65C:\Users\USER\Desktop\Projects\natours\node_modules\code-point-at133016359214456027 1
 72C:\Users\USER\Desktop\Projects\natours\node_modules\punycode\punycode.js131714306640000000 0
 90C:\Users\USER\Desktop\Projects\natours\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133645645006810630 0
@@ -606,6 +606,7 @@
 51C:\Users\USER\Desktop\Projects\natours\img\hero.jpg132889349706945504 0
 94C:\Users\USER\Desktop\Projects\natours\node_modules\posthtml-parser\dist\location-tracker.d.ts133645644922015195 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\uri-js\dist\esnext\uri.js121436361000000000 0
+74C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\color-support.ps1133645674006141399 0
 86C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\sass_types\error.cpp121436361000000000 0
 93C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\external\sizzle\dist\sizzle.min.js121436361000000000 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\console-control-strings133016359214456027 1
@@ -1083,7 +1084,7 @@
 74C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\_baseIsEqual.js121436361000000000 0
 93C:\Users\USER\Desktop\Projects\natours\node_modules\yargs\node_modules\camelcase\package.json133016359233495164 0
 104C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133645645136539811 0
-86C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\markdown-ansi\node_modules133645644608427527 1
+86C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\markdown-ansi\node_modules133645674315371859 1
 63C:\Users\USER\Desktop\Projects\natours\node_modules\json-schema133016359261085790 1
 73C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\forOwnRight.js121436361000000000 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\type-fest\package.json133645644794040240 0
@@ -1540,6 +1541,7 @@
 87C:\Users\USER\Desktop\Projects\natours\node_modules\type-fest\source\promise-value.d.ts133645645066830372 0
 125C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133645645074532556 0
 57C:\Users\USER\Desktop\Projects\natours\node_modules\tslib133645644970218584 1
+82C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\vendor\win32-x64-120133645672463920545 1
 61C:\Users\USER\Desktop\Projects\natours\node_modules\tweetnacl133016359249057107 1
 101C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\core\node_modules\semver\classes\range.js133645645091230196 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\CHANGELOG.md121436361000000000 0
@@ -1622,9 +1624,9 @@
 82C:\Users\USER\Desktop\Projects\natours\node_modules\sass\types\value\function.d.ts121436361000000000 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\source-map-js\LICENSE121436361000000000 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\yargs-parser\README.md121436361000000000 0
-69C:\Users\USER\Desktop\Projects\natours\node_modules\is-number\LICENSE121436361000000000 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\set-blocking\index.js131079994390000000 0
 92C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\src\source_map.cpp121436361000000000 0
+69C:\Users\USER\Desktop\Projects\natours\node_modules\is-number\LICENSE121436361000000000 0
 96C:\Users\USER\Desktop\Projects\natours\node_modules\yargs-parser\node_modules\camelcase\index.js131068567740000000 0
 70C:\Users\USER\Desktop\Projects\natours\node_modules\lmdb\dict\dict.txt133645645290836754 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test\node_path\x\aaa133016359105359925 1
@@ -1908,9 +1910,9 @@
 64C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\lt.js121436361000000000 0
 88C:\Users\USER\Desktop\Projects\natours\node_modules\verror\node_modules\core-util-is\lib133016359059522557 1
 102C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib\escape.js.map133645645114481096 0
+93C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\src\utf8_string.cpp121436361000000000 0
 92C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\test\test_node.cpp121436361000000000 0
 92C:\Users\USER\Desktop\Projects\natours\node_modules\verror\node_modules\core-util-is\LICENSE130924526680000000 0
-93C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\src\utf8_string.cpp121436361000000000 0
 72C:\Users\USER\Desktop\Projects\natours\node_modules\verror\lib\verror.js131382167760000000 0
 66C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\T.js121436361000000000 0
 89C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\_\_identity\package.json133645645343393176 0
@@ -2371,7 +2373,7 @@
 121C:\Users\USER\Desktop\Projects\natours\node_modules\tar\.nyc_output\processinfo\0471d9cf-687f-4ae8-84a5-ce7468becd03.json121436361000000000 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\trim-newlines\index.js130879912600000000 0
 68C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\lte.js121436361000000000 0
-98C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\node_modules\.bin133645645653102830 1
+98C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\node_modules\.bin133645674315591729 1
 73C:\Users\USER\Desktop\Projects\natours\node_modules\trim-newlines\license130857318570000000 0
 68C:\Users\USER\Desktop\Projects\natours\node_modules\tough-cookie\lib133016359072258339 1
 66C:\Users\USER\Desktop\Projects\natours\dist\index.2c232f28.css.map133645661070641409 0
@@ -2728,7 +2730,7 @@
 64C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test133016359129105352 1
 72C:\Users\USER\Desktop\Projects\natours\node_modules\fill-range\README.md133645644843540650 0
 96C:\Users\USER\Desktop\Projects\natours\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md121436361000000000 0
-68C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\vendor133016359282370470 1
+68C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\vendor133645672463920545 1
 96C:\Users\USER\Desktop\Projects\natours\node_modules\supports-preserve-symlinks-flag\package.json133016359240296055 0
 86C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\sass_types\factory.h121436361000000000 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\object.assign\.github133016359095457814 1
@@ -3301,7 +3303,7 @@
 102C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test\resolver\multirepo\packages\package-b133016359130205577 1
 127C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133645645209397459 0
 111C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test\resolver\multirepo\packages\package-b\index.js121436361000000000 0
-82C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\codeframe\node_modules133645644608407517 1
+82C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\codeframe\node_modules133645674315271918 1
 97C:\Users\USER\Desktop\Projects\natours\node_modules\posthtml\node_modules\posthtml-parser\license133645644776684272 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\mdn-data\index.js133645644844040331 0
 115C:\Users\USER\Desktop\Projects\natours\node_modules\resolve\test\resolver\multirepo\packages\package-b\package.json121436361000000000 0
@@ -3482,7 +3484,7 @@
 64C:\Users\USER\Desktop\Projects\natours\node_modules\nopt\LICENSE130918327430000000 0
 72C:\Users\USER\Desktop\Projects\natours\node_modules\qs\test\stringify.js121436361000000000 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\src133016359130705690 1
-78C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\utils\node_modules133645644607657955 1
+78C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\utils\node_modules133645674315651696 1
 71C:\Users\USER\Desktop\Projects\natours\node_modules\repeating\readme.md131048695070000000 0
 92C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\features\filereader.js133645645526825910 0
 97C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_tagged_template_literal.cjs133645645192296855 0
@@ -3762,7 +3764,7 @@
 79C:\Users\USER\Desktop\Projects\natours\node_modules\performance-now\.travis.yml131319871620000000 0
 76C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\dropRightWhile.js121436361000000000 0
 116C:\Users\USER\Desktop\Projects\natours\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133645645239723027 0
-66C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass133016359266536949 0
+66C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass133645672384621976 0
 71C:\Users\USER\Desktop\Projects\natours\node_modules\performance-now\lib133016359075590760 1
 79C:\Users\USER\Desktop\Projects\natours\node_modules\performance-now\license.txt131281925980000000 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\performance-now\package.json133016359250007365 0
@@ -3806,7 +3808,7 @@
 75C:\Users\USER\Desktop\Projects\natours\node_modules\parent-module\readme.md133645644821467675 0
 64C:\Users\USER\Desktop\Projects\natours\node_modules\lmdb\keys.js133645645261172511 0
 68C:\Users\USER\Desktop\Projects\natours\node_modules\parcel\README.md133645644914116664 0
-71C:\Users\USER\Desktop\Projects\natours\node_modules\parcel\node_modules133645644608297578 1
+71C:\Users\USER\Desktop\Projects\natours\node_modules\parcel\node_modules133645674317460655 1
 84C:\Users\USER\Desktop\Projects\natours\node_modules\parcel\node_modules\chalk\source133645644824227082 1
 77C:\Users\USER\Desktop\Projects\natours\node_modules\parcel\src\.eslintrc.json133645644890207618 0
 116C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.d.ts.map133645644927132264 0
@@ -3901,7 +3903,7 @@
 79C:\Users\USER\Desktop\Projects\natours\node_modules\normalize-path\package.json133016346097635467 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\sortedUniqBy.js121436361000000000 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\once\package.json133016359227181808 0
-91C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\node-resolver-core\node_modules133645645651923519 1
+91C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\node-resolver-core\node_modules133645674315351869 1
 97C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\features\contenteditable.js133645645244112405 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\assignInWith.js121436361000000000 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\object.assign\.eslintrc121436361000000000 0
@@ -4056,7 +4058,7 @@
 73C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\binding.gyp121436361000000000 0
 65C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\lib133016359060703498 1
 74C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\package.json133016359218947842 0
-90C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-babel\node_modules133645645651723658 1
+90C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-babel\node_modules133645674315431865 1
 76C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\test\.eslintrc121436361000000000 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\test\api.js121436361000000000 0
 98C:\Users\USER\Desktop\Projects\natours\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133645645245781404 0
@@ -4446,7 +4448,7 @@
 93C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\include\sass2scss.h121436361000000000 0
 88C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\download-msgpackr-prebuilds.ps1133645645655461476 0
 93C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\include\sass\base.h121436361000000000 0
-88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-svg\node_modules133645645651893522 1
+88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-svg\node_modules133645674315591729 1
 95C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\include\sass\values.h121436361000000000 0
 97C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133645644818369560 0
 101C:\Users\USER\Desktop\Projects\natours\node_modules\node-sass\src\libsass\docs\api-context-example.md121436361000000000 0
@@ -4572,6 +4574,7 @@
 89C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\esm\_class_call_check.js133645645230215446 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\node-gyp\test\docker.sh121436361000000000 0
 67C:\Users\USER\Desktop\Projects\natours\node_modules\getpass\LICENSE131376371950000000 0
+71C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-which.cmd133645674006171374 0
 70C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\_setData.js121436361000000000 0
 86C:\Users\USER\Desktop\Projects\natours\node_modules\node-gyp\test\process-exec-sync.js121436361000000000 0
 82C:\Users\USER\Desktop\Projects\natours\node_modules\node-gyp\test\test-download.js121436361000000000 0
@@ -5683,7 +5686,7 @@
 79C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\lib\types.js.map133645645180983367 0
 127C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js133645645199162872 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\entriesIn.js121436361000000000 0
-70C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass.cmd133016359266586963 0
+70C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass.cmd133645672384602001 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\utils\src133645645199242827 1
 67C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\eq.js121436361000000000 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\escapeRegExp.js121436361000000000 0
@@ -5930,7 +5933,7 @@
 72C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\toUpper.js121436361000000000 0
 81C:\Users\USER\Desktop\Projects\natours\node_modules\json-schema-traverse\index.js131730934070000000 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\replace\index.js133645645199212851 0
-93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-svg\node_modules\.bin133645645653102830 1
+93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-svg\node_modules\.bin133645674315651696 1
 74C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\transform.js121436361000000000 0
 74C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\trimChars.js121436361000000000 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\lodash\fp\truncate.js121436361000000000 0
@@ -5974,7 +5977,7 @@
 79C:\Users\USER\Desktop\Projects\natours\node_modules\load-json-file\package.json133016359241246284 0
 97C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133645645444412907 0
 76C:\Users\USER\Desktop\Projects\natours\node_modules\load-json-file\readme.md130914639830000000 0
-94C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules\.bin133645645655201638 1
+94C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules\.bin133645674315541757 1
 61C:\Users\USER\Desktop\Projects\natours\node_modules\lmdb\dict133645645290976701 1
 105C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133645645029862915 0
 61C:\Users\USER\Desktop\Projects\natours\node_modules\lmdb\dist133645645276627583 1
@@ -6220,7 +6223,7 @@
 84C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\traversing\var\dir.js121436361000000000 0
 89C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\traversing\var\siblings.js121436361000000000 0
 77C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\queue\delay.js121436361000000000 0
-96C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\node-resolver-core\node_modules\.bin133645645655411517 1
+96C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\node-resolver-core\node_modules\.bin133645674315381849 1
 92C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\manipulation\setGlobalEval.js121436361000000000 0
 96C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\esm\_class_private_field_get.js133645645241192180 0
 87C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\manipulation\_evalUrl.js121436361000000000 0
@@ -6255,7 +6258,7 @@
 83C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\utils\src\objectHash.js133645645129679762 0
 95C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\features\css-scrollbar.js133645645338979809 0
 85C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\core\var\rsingleTag.js121436361000000000 0
-85C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\reporter-cli\node_modules133645644608387555 1
+85C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\reporter-cli\node_modules133645674315481795 1
 80C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\attributes\val.js121436361000000000 0
 76C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\ajax\jsonp.js121436361000000000 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\jquery\src\ajax\load.js121436361000000000 0
@@ -6452,7 +6455,7 @@
 63C:\Users\USER\Desktop\Projects\natours\dist\nat-10.1a680fb3.jpg133645662614191206 0
 86C:\Users\USER\Desktop\Projects\natours\node_modules\htmlnano\lib\modules\minifySvg.mjs133645645209527386 0
 87C:\Users\USER\Desktop\Projects\natours\node_modules\htmlnano\lib\modules\minifyUrls.cjs133645645036319184 0
-95C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-babel\node_modules\.bin133645645653032886 1
+95C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-babel\node_modules\.bin133645674315501780 1
 101C:\Users\USER\Desktop\Projects\natours\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133645645210546794 0
 117C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-svg\node_modules\semver\classes\comparator.js133645644882859170 0
 98C:\Users\USER\Desktop\Projects\natours\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133645645211206402 0
@@ -6576,7 +6579,7 @@
 98C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\features\cookie-store-api.js133645645245881363 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\aws4\package.json133016359204784060 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\har-validator\README.md121436361000000000 0
-77C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\core\node_modules133645645651613694 1
+77C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\core\node_modules133645674315261918 1
 83C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\utils\src\getRootDir.js133645645054822656 0
 78C:\Users\USER\Desktop\Projects\natours\node_modules\har-validator\lib\async.js121436361000000000 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\har-validator\lib\promise.js121436361000000000 0
@@ -7315,6 +7318,7 @@
 92C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\restructure\3-disjoinRuleset.js133645645114631018 0
 93C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\features\css3-colors.js133645645346836388 0
 95C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\restructure\4-restructShorthand.js133645645117227237 0
+70C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\color-support133645674006141399 0
 91C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\restructure\6-restructBlock.js133645645119699923 0
 93C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\restructure\8-restructRuleset.js133645645122932876 0
 81C:\Users\USER\Desktop\Projects\natours\node_modules\csso\lib\restructure\index.js133645645199502689 0
@@ -7659,8 +7663,8 @@
 84C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\domutils133645645119430086 1
 84C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities133645645125142381 1
 88C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib133645645181033334 1
-92C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\LICENSE133645644772286453 0
 116C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\gte.js133645644993253357 0
+92C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\LICENSE133645644772286453 0
 83C:\Users\USER\Desktop\Projects\natours\node_modules\caniuse-lite\data\regions\AS.js133645645088851652 0
 104C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib\decode.d.ts.map133645645081435854 0
 98C:\Users\USER\Desktop\Projects\natours\node_modules\css-select\node_modules\entities\lib\decode.js133645644932139368 0
@@ -7890,7 +7894,7 @@
 103C:\Users\USER\Desktop\Projects\natours\node_modules\@babel\highlight\node_modules\has-flag\package.json133645644771636462 0
 76C:\Users\USER\Desktop\Projects\natours\node_modules\cross-spawn\lib\parse.js131080514020000000 0
 85C:\Users\USER\Desktop\Projects\natours\node_modules\cross-spawn\lib\resolveCommand.js131080807480000000 0
-76C:\Users\USER\Desktop\Projects\natours\node_modules\cosmiconfig\node_modules133645644608047754 1
+76C:\Users\USER\Desktop\Projects\natours\node_modules\cosmiconfig\node_modules133645674316171395 1
 76C:\Users\USER\Desktop\Projects\natours\node_modules\cosmiconfig\package.json133645644996671402 0
 82C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_inherits.cjs133645645118620529 0
 100C:\Users\USER\Desktop\Projects\natours\node_modules\cosmiconfig\node_modules\parse-json\package.json133645644809974307 0
@@ -8895,7 +8899,7 @@
 127C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\index.js133645645182842308 0
 104C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133645645037638427 0
 105C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133645645043911628 0
-82C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\core\node_modules\.bin133645645652972919 1
+82C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\core\node_modules\.bin133645674315331879 1
 97C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs133645645058800318 0
 129C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133645645138982116 0
 100C:\Users\USER\Desktop\Projects\natours\node_modules\@swc\helpers\cjs\_class_private_field_update.cjs133645645061955509 0
@@ -9094,7 +9098,7 @@
 113C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133645644822716947 0
 84C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\lib133645644826921146 1
 88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\LICENSE133645644766679507 0
-93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\node_modules133645645651893522 1
+93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\node_modules133645674315791617 1
 93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\package.json133645644881298281 0
 100C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\node_modules\semver133645645116210135 1
 85C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\graph\test\BitSet.test.js133645644935374287 0
@@ -9126,11 +9130,11 @@
 124C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\semver\ranges\max-satisfying.js133645645053573343 0
 99C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133645644799820178 0
 107C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133645644845229660 0
-92C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules133645645651893522 1
+92C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules133645674315541757 1
 96C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\src\constants.js133645644816070788 0
 111C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\markdown-ansi\node_modules\supports-color\readme.md133645644857152259 0
 124C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\walker.js133645645260662822 0
-97C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\.bin133645645653062857 1
+97C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\.bin133645674315561746 1
 99C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\semver133645645116609880 1
 121C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules\semver\ranges\max-satisfying.js133645645053503390 0
 108C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-postcss\node_modules\semver\index.js133645645030752393 0
@@ -9169,7 +9173,7 @@
 82C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\LICENSE133645644767598810 0
 123C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Comment.js133645645029762960 0
 87C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\package.json133645644895754432 0
-92C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules\.bin133645645653082841 1
+92C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules\.bin133645674315531762 1
 94C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules\semver133645645115800345 1
 98C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules\semver\bin133645645100494854 1
 102C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-js\node_modules\semver\classes133645645103203301 1
@@ -9219,7 +9223,7 @@
 99C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-image\lib\validateConfig.js133645644885740224 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\lib133645644881028426 1
 84C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\LICENSE133645644767318964 0
-89C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules133645645651953507 1
+89C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules133645674315481795 1
 89C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\package.json133645644913886826 0
 90C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\src\inline.js133645644902368973 0
 96C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\transformer-html\node_modules\semver133645645117127299 1
@@ -9494,7 +9498,7 @@
 91C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\packager-css\src\CSSPackager.js133645644820088475 0
 91C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\packager-css\lib\CSSPackager.js133645644799970087 0
 86C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\index.d.ts133645645130969027 0
-88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules133645645651653678 1
+88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules133645674315391846 1
 77C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\optimizer-css\lib133645644795588131 1
 88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\package.json133645645098056264 0
 79C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\src133645645094548297 1
@@ -9528,7 +9532,7 @@
 101C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\src\NodePackageManager.js133645645065241227 0
 88C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\src\types.js133645645082944983 0
 106C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133645645089821018 0
-93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules\.bin133645645652932933 1
+93C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules\.bin133645674315411832 1
 103C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules\semver\classes133645645103023398 1
 104C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules\semver\index.js133645645030982411 0
 104C:\Users\USER\Desktop\Projects\natours\node_modules\@parcel\package-manager\node_modules\semver\internal133645645094128535 1
@@ -10426,6 +10430,7 @@
 86C:\Users\USER\Desktop\Projects\natours\node_modules\@babel\code-frame\lib\index.js.map133645644844190249 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\browserslist133645645655501463 0
 73C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\browserslist.cmd133645645655491499 0
+74C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\color-support.cmd133645674006141399 0
 68C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\detect-libc133645645655451485 0
 72C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\detect-libc.ps1133645645655451485 0
 80C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\download-lmdb-prebuilds133645645655461476 0
@@ -10450,7 +10455,9 @@
 93C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-gyp-build-optional-packages.ps1133645645663692765 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-gyp.cmd133016359266236895 0
 69C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-gyp.ps1133016359266236895 0
-70C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass.ps1133016359266586963 0
+70C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-sass.ps1133645672384602001 0
+67C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-which133645674006201365 0
+71C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\node-which.ps1133645674006161376 0
 61C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\nopt133016359263736349 0
 65C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\nopt.ps1133016359263736349 0
 75C:\Users\USER\Desktop\Projects\natours\node_modules\.bin\not-in-install.cmd133016359266036852 0
