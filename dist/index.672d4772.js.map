@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AAEA,MAAM,SAAS,SAAS,aAAa,CAAC;AAEtC,OAAO,gBAAgB,CAAC,SAAS,OAAO","sources":["script.js"],"sourcesContent":["\"use strict\";\r\n\r\nconst button = document.querySelector(\".btn\");\r\n\r\nbutton.addEventListener(\"click\", prompt(\"congrats\"));\r\n"],"names":[],"version":3,"file":"index.672d4772.js.map","sourceRoot":"/__parcel_source_root/"}
